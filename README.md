@@ -1,2 +1,3 @@
-# osti
-php
+# Lucky Enterprices pos system
+java
+jasper
